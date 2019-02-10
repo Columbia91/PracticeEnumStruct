@@ -31,5 +31,11 @@ namespace PracticeStructEnum
                 Console.Write(item + ".");
             }
         }
+        /*Создать структуру «Employee» состоящую из:
+            a.	поля name строкового типа;
+            b.	поля vacancy типа Vacancies;
+            c.	поля зарплата целого типа;
+            d.	поля дата приема на работу типа int[3].
+        */
     }
 }
